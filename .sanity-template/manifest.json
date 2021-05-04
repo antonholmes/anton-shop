@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "title": "Next.js E-commerce",
-  "description": "Sanity E-commerce example with Next.js frontend, deployed to Vercel.",
+  "title": "Anton Shop",
+  "description": "Anton plays with Sanity, Next.js.",
   "previewMedia": {
     "type": "image",
     "src": ".sanity-template/screenshot.png",
